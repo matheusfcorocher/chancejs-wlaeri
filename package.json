@@ -18,6 +18,7 @@
     "packages/letter",
     "packages/hex",
     "packages/pickone",
+    "packages/data",
     "packages/month",
     "packages/chance"
   ],

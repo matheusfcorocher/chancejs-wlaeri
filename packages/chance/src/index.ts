@@ -80,7 +80,6 @@ export class Chance implements IChance {
     return seed;
   }
 
-  // plop-class-methods
   month<T extends boolean>(options?: MonthOptions<T>): MonthOrName<T> {
     return this.monthGenerator.month(options);
   }

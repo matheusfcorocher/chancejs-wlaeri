@@ -1,9 +1,4 @@
-export type Month = {
-  name: string;
-  shortName: string;
-  numeric: number;
-  days: number
-};
+import { Month } from '@chancejs/data';
 
 type MonthName = string;
 
